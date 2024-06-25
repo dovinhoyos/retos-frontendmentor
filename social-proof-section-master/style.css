@@ -130,7 +130,10 @@ header p{
         flex-direction: row;
         width: 444px;
         height: 50px;
-        justify-content: space-around;
+        justify-content: center;
+    }
+    .five-stars{
+        margin-right: 12px;
     }
     .cards-container{
         display: grid;
