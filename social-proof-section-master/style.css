@@ -146,6 +146,9 @@ header p{
         height: 50px;
         justify-content: center;
     }
+    .five-stars{
+        margin-right: 12px;
+    }
     .cards-container{
         display: grid;
         grid-template-columns: 1fr 1fr;
